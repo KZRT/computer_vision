@@ -72,4 +72,3 @@ my_dst = equalize_histogram(src, my_hist)
 cv2.imshow('my_dst', my_dst)
 cv2.waitKey(0)
 cv2.destroyAllWindows()
-#%%
